@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color: tomato;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: aliceblue;
+}
